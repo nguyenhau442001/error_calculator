@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="error_calculator" type="error_calculator.py" name="error_calculator" output="screen"/>
+</launch>
+
